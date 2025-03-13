@@ -1,5 +1,5 @@
 ## Hi there 👋
-– 🍌 Fun fact: A banana is considered a berry.
+– ⚡ Fun fact: A banana is considered a berry.
 <!--
 **domonkosnagy/domonkosnagy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
